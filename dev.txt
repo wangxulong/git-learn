@@ -3,3 +3,4 @@ master
 master add
 after stach
 test s
+stash 1
