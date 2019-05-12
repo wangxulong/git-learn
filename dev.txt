@@ -2,3 +2,6 @@ aa
 master
 master add
 master stat
+after stach
+test s
+stash0
