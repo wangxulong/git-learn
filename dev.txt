@@ -1,3 +1,4 @@
 aa
 master
 master add
+master stat
