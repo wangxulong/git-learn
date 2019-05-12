@@ -5,3 +5,5 @@ master stat
 after stach
 test s
 stash0
+stash 1
+stash 0
